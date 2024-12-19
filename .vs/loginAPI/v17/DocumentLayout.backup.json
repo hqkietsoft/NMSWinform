@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE9A087-E450-4EFE-8FC5-5F070F71733F}|loginAPI\\loginAPI.csproj|d:\\thinkoutsidethebox\\daff\\code\\c#\\loginapi\\loginapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE9A087-E450-4EFE-8FC5-5F070F71733F}|loginAPI\\loginAPI.csproj|solutionrelative:loginapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE9A087-E450-4EFE-8FC5-5F070F71733F}|loginAPI\\loginAPI.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\loginapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BEE9A087-E450-4EFE-8FC5-5F070F71733F}|loginAPI\\loginAPI.csproj|solutionrelative:loginapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE9A087-E450-4EFE-8FC5-5F070F71733F}|loginAPI\\loginAPI.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\loginapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE9A087-E450-4EFE-8FC5-5F070F71733F}|loginAPI\\loginAPI.csproj|solutionrelative:loginapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE9A087-E450-4EFE-8FC5-5F070F71733F}|loginAPI\\loginAPI.csproj|D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\loginapi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEE9A087-E450-4EFE-8FC5-5F070F71733F}|loginAPI\\loginAPI.csproj|solutionrelative:loginapi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\loginAPI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "loginAPI\\Form1.Designer.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\loginAPI\\Form1.Designer.cs",
+              "RelativeToolTip": "loginAPI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:46:53.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\loginAPI\\Form1.cs",
+              "RelativeDocumentMoniker": "loginAPI\\Form1.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\loginAPI\\Form1.cs*",
+              "RelativeToolTip": "loginAPI\\Form1.cs*",
+              "ViewState": "AgIAAHoAAAAAAAAAAADwv4EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:23:28.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\loginAPI\\Program.cs",
+              "RelativeDocumentMoniker": "loginAPI\\Program.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\loginAPI\\Program.cs",
+              "RelativeToolTip": "loginAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:04:15.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\loginAPI\\Form1.cs",
+              "RelativeDocumentMoniker": "loginAPI\\Form1.cs",
+              "ToolTip": "D:\\ThinkOutsideTheBox\\DAFF\\Code\\C#\\loginAPI\\loginAPI\\Form1.cs [Design]",
+              "RelativeToolTip": "loginAPI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:21:29.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
